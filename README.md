@@ -242,9 +242,7 @@ This project is designed for learning and demonstration purposes. Feel free to:
 - Share your results and insights
 - Contribute to the documentation
 
-## 📄 License
 
-This project is open source and available under the MIT License.
 
 ## 🆘 Support
 
@@ -264,5 +262,3 @@ After implementing this system, you should see:
 - **Data-driven decision making**
 
 ---
-
-**Built with ❤️ for customer success and business growth**
